@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EGbox
 - 👀 I’m interested in space, aliens, remote computing, security and cats.
 - 🌱 I’m currently learning AWS Cloud Computing
-- 💞️ I’m looking to collaborate on creating servers
 - 📫 How to reach me... just here. :)
 
 <!---

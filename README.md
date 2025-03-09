@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EGbox
+- 👋 Hi, I’m @EGbox. I'm a selftaught tech enthusiast with a heavy background of hardware repair and data retrieval.
 
 Creative tools I'm familiar with include: Adobe Photoshop, Lightroom CC, GNOME GIMP, Davinci Resolve Studio, OBS Studio, FL Studio.
 
